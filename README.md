@@ -1,6 +1,3 @@
-# CO2_Emission_Project
-Co2 Emission Conversion Based on Daily Bank Transaction
-
 # CO2_Emission_Project Using Azure Databricks and Power BI
 
 ![Example screenshot](./unsplash.jpg)
