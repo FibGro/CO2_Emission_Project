@@ -11,23 +11,23 @@
 <!-- * [License](#license) -->
 
 ## General Information
-- This is ETL (extract, tranform and load)
-- Implement mendalion architecture inn the Data Lake Gen2 (Brown, Silver, Gold) 
-- Extract data from several sources into Brown layer of Data Lake Gen2 
-- Cleaning, and ensure integrity the dataset 
-- Transform the dataset into delta format
-- Create a snowflake data modelling 
-- Load into Silver layer
-- Aggragate the data and load into Gold Layer for for feeding the analysis
-- Connect Databricks with Power BI
-- Create a dashboard and report in Power BI to show insight 
+- This process involves ETL (Extract, Transform, Load).
+- Implementing the medallion architecture in Data Lake Gen2 (Bronze, Silver, Gold layers).
+- Extracting data from multiple sources into the Bronze layer of Data Lake Gen2.
+- Cleaning the dataset and ensuring its integrity.
+- Transforming the dataset into Delta format.
+- Creating a Snowflake data model.
+- Loading transformed data into the Silver layer.
+- Aggregating the data and loading it into the Gold layer to support analysis.
+- Connecting Databricks with Power BI.
+- Creating dashboards and reports in Power BI to display insights.
 
 ## Dataset Information
 
 The dataset consists : 
-- trasaction information of several accounts
-- currency conversion
-- Code translation 
+- Transaction information for multiple accounts.
+- Currency conversion data.
+- Code translation information.
 
 ## Technologies Used
 - Azure databricks
