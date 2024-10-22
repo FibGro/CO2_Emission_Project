@@ -29,7 +29,8 @@ Co2 Emission Conversion Based on Daily Bank Transaction
 
 The dataset consists : 
 - trasaction information of several accounts
-- 
+- currency conversion
+- Code translation 
 
 ## Technologies Used
 - Azure databricks
