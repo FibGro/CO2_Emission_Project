@@ -1,4 +1,4 @@
-# CO2_Emission_Project Using Azure Databricks and Power BI
+# CO2 Emission Project Using Azure Databricks and Power BI
 
 ![Example screenshot](./unsplash.jpg)
 
